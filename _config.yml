@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Discovery
+description: Questions to help the website discovery process
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nJim.github.io/discovery
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/nJim/discovery
